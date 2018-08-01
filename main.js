@@ -21,6 +21,8 @@ fetchedData.then(data=>{
     var heading=document.createElement("h2");
     heading.textContent="career objective";
     rightChild.appendChild(heading);
+    var hline=document.createElement("hr");
+    heading.appendChild(hline);
     var p=document.createElement("p");
     p.textContent=car.info;
     rightChild.appendChild(p);

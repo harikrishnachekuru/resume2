@@ -1,5 +1,22 @@
 {
   "career":{
     "info" :" I aspire for a challenging position in a professional Organization where I can enhance my professional skills and strengthen my performance in adding with Organization’s motto. Myself a self motivated achiever with an ability to plan and execute"
-  }
+  },
+  "education":[
+    {
+      "degree":"B-Tech (Computer Science & Engineering)",
+      "intitute":"Siddhartha Institute of Engineering and Technology",
+      "data":["2015-19","70%"]
+    },
+    {
+      "degree":"Intermediate (M.P.C)",
+      "intitute":"NRI Juniour college",
+      "data":["2013-15","82%"]
+    },
+    {
+      "degree":"S.S.C",
+      "intitute":"Raju High School",
+      "data":["2013","88%"]
+    }
+  ]
 }
